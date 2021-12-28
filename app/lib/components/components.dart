@@ -1,0 +1,1 @@
+export 'package:app/components/quote_card.dart';

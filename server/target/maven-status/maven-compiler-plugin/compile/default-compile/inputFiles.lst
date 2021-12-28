@@ -1,0 +1,6 @@
+/home/a/problems/CuteQuotes/server/src/main/java/api/CuteQuotesServer.java
+/home/a/problems/CuteQuotes/server/src/main/java/dataAccess/DBConnect.java
+/home/a/problems/CuteQuotes/server/src/main/java/cuteQuotes/Quote.java
+/home/a/problems/CuteQuotes/server/src/main/java/api/QuoteApiHandler.java
+/home/a/problems/CuteQuotes/server/src/main/java/dataAccess/QuotesDO.java
+/home/a/problems/CuteQuotes/server/src/main/java/dataAccess/QuotesDAI.java

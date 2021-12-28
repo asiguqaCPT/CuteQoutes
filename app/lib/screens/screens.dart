@@ -1,0 +1,1 @@
+export 'package:app/screens/quotes_screen.dart';

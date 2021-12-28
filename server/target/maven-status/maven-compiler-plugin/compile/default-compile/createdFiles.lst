@@ -1,0 +1,6 @@
+dataAccess/QuotesDO.class
+cuteQuotes/Quote.class
+api/CuteQuotesServer.class
+api/QuoteApiHandler.class
+dataAccess/DBConnect.class
+dataAccess/QuotesDAI.class
